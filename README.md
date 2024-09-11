@@ -9,12 +9,12 @@ AtliQ Hardware is a retail company which offers a range of hardware products lik
 
 **1 - ETL (Extract, Transform, Load)**
 
-     ✅Loaded all the provided CSV files into Power Query.
-     ✅Ensured there were no missing values.
-     ✅Verified that all dimension tables contained a unique column.
-     ✅Removed duplicate values.
-     ✅Corrected all spelling errors.
-     ✅Finally, loaded the files into a Data Model.
+     - Loaded all the provided CSV files into Power Query.
+     - Ensured there were no missing values.
+     - Verified that all dimension tables contained a unique column.
+     - Removed duplicate values.
+     - Corrected all spelling errors.
+     - Finally, loaded the files into a Data Model.
 
 **2 - Data Modelling**
          
