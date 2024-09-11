@@ -46,11 +46,11 @@ AtliQ Hardware is a retail company which offers a range of hardware products lik
 
 **Sales Report Insights:**
 
-📈Reviewed customer sales and growth percentages over the years in the Customer Performance Report.
-🎯Analyzed market performance against sales targets in the Market Performance and Sales Targets Comparison.
+    📈Reviewed customer sales and growth percentages over the years in the Customer Performance Report.
+    🎯Analyzed market performance against sales targets in the Market Performance and Sales Targets Comparison.
 
 **Finance Report Insights:**
 
-📊Assessed financial performance across various time frames in the Profit and Loss (P&L) Reports by fiscal year and month.
-💹Derived market-based insights to benchmark P&L reports for comparative analysis by markets.
+    📊Assessed financial performance across various time frames in the Profit and Loss (P&L) Reports by fiscal year and month.
+    💹Derived market-based insights to benchmark P&L reports for comparative analysis by markets.
 
